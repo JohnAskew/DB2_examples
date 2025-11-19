@@ -34,8 +34,8 @@ DBM_CONFIG_FILE=snapmon.dbmcfg.`date +%d%m%H%M%S`;
 # CUSTOMIZABLE VALUES  
 # Thresholds and other constants
 #
-MAIL_TO=1032003957@myairmail.com     # Lotus Notes Ids. Change this to your id.
-DB_NAME="UCIDP";                     # Database name.  Change to your database name.
+MAIL_TO=?????????                    # Change this to your email.
+DB_NAME="LUCID";                     # Database name.  Change to your database name.
 DB_SNAPSHOT_INTERVAL=60;             # Interval in seconds between each snapshot
 DB_HWM_CONN_THRSH=95;                # DB High water mark connections threshold percent 
 DB_APP_EX_CURR_THRSH=95;             # DB Application executing in db manager currently
